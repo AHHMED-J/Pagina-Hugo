@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio Ahhmed</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Portafolio Ahhmed</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Sep 2025 10:23:55 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica 0</title>
+      <link>http://localhost:1313/practica0/</link>
+      <pubDate>Fri, 26 Sep 2025 10:23:55 -0700</pubDate>
+      <guid>http://localhost:1313/practica0/</guid>
+      <description>&lt;h1 id=&#34;universidad-autónoma-de-baja-california&#34;&gt;Universidad Autónoma de Baja California&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facultad-de-ingeniería-arquitectura-y-diseño-fiad&#34;&gt;Facultad de Ingeniería, Arquitectura y Diseño (FIAD)&lt;/h2&gt;&#xA;&lt;p&gt;Markdown es un lenguaje de marcado ligero creado en 2004 por John Gruber, con la colaboración de Aaron Swartz. Su principal objetivo fue permitir que los documentos escritos en texto plano pudieran convertirse fácilmente a HTML sin perder la legibilidad en su forma original.&lt;/p&gt;&#xA;&lt;p&gt;A diferencia de otros lenguajes de marcado más complejos, Markdown destaca por su sintaxis simple e intuitiva, lo que facilita tanto la escritura como la lectura del contenido. Gracias a esto, se convirtió en una herramienta muy usada en distintos ámbitos:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practica 1</title>
+      <link>http://localhost:1313/practica1/</link>
+      <pubDate>Fri, 26 Sep 2025 10:23:55 -0700</pubDate>
+      <guid>http://localhost:1313/practica1/</guid>
+      <description>&lt;p&gt;Elementos fundamentales de los lenguajes de programación&lt;/p&gt;&#xA;&lt;p&gt;El estudio de los lenguajes de programación permite comprender cómo se construyen y ejecutan los programas, así como los mecanismos internos que garantizan su funcionamiento. A continuación, se describen los principales elementos que forman parte de estos lenguajes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Nombres&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;En programación, los nombres son identificadores utilizados para referirse a variables, constantes, funciones, clases o cualquier otro objeto definido en el programa.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Cumplen con reglas sintácticas específicas (por ejemplo, no iniciar con números).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practica 2</title>
+      <link>http://localhost:1313/practica2/</link>
+      <pubDate>Fri, 26 Sep 2025 10:23:55 -0700</pubDate>
+      <guid>http://localhost:1313/practica2/</guid>
+      <description>&lt;h1 id=&#34;universidad-autónoma-de-baja-california&#34;&gt;Universidad Autónoma de Baja California&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facultad-de-ingeniería-arquitectura-y-diseño-fiad&#34;&gt;Facultad de Ingeniería, Arquitectura y Diseño (FIAD)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;elementos-fundamentales-de-lenguajes-en-el-sistema-de-biblioteca&#34;&gt;Elementos Fundamentales de Lenguajes en el Sistema de Biblioteca&lt;/h3&gt;&#xA;&lt;p&gt;El proyecto de biblioteca se organiza en tres módulos clave que, en conjunto, demuestran la aplicación práctica de los conceptos de los lenguajes de programación.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;biblioteca.py&lt;/code&gt; (Lógica Central)&#xA;Este es el módulo principal que contiene la lógica de negocio. Define las clases esenciales (Book, DigitalBook, Member, Library) que representan los objetos del sistema. Implementa todas las operaciones básicas como añadir y registrar, además de gestionar las transacciones de préstamo y devolución. La función main() sirve para ejecutar el programa en una interfaz de consola.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practica 3</title>
+      <link>http://localhost:1313/practica3/</link>
+      <pubDate>Fri, 26 Sep 2025 10:23:55 -0700</pubDate>
+      <guid>http://localhost:1313/practica3/</guid>
+      <description>&lt;h1 id=&#34;instalación-del-entorno-de-desarrollo-de-haskell&#34;&gt;Instalación del Entorno de Desarrollo de Haskell&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facultad-de-ingeniería-arquitectura-y-diseño&#34;&gt;FACULTAD DE INGENIERÍA, ARQUITECTURA Y DISEÑO&lt;/h2&gt;&#xA;&lt;h3 id=&#34;descargar-haskell&#34;&gt;Descargar haskell&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Primero vamos a la pagina de haskell y nos vamos a descargas&lt;/li&gt;&#xA;&lt;li&gt;Descargamos GHCup&#xA;Imágenes: &lt;img src=&#34;imagen1.png&#34; alt=&#34;GHCup&#34;&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Verificación y Prueba de la Instalación&#xA;Después de completar la instalación del entorno de Haskell, se realizó una serie de pasos para comprobar la funcionalidad de todas las herramientas clave, siguiendo la guía Get Started oficial.&#xA;Imágenes: &lt;img src=&#34;imagen2.png&#34; alt=&#34;GHCup&#34;&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Herramientas Comprobadas&#xA;Verificación del Compilador (GHC): Se confirmó que el Glasgow Haskell Compiler (GHC) se instaló correctamente ejecutando el comando de versión.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practica 4</title>
+      <link>http://localhost:1313/practica4/</link>
+      <pubDate>Fri, 26 Sep 2025 10:23:55 -0700</pubDate>
+      <guid>http://localhost:1313/practica4/</guid>
+      <description>&lt;h1 id=&#34;instalación-del-entorno-de-desarrollo-de-haskell&#34;&gt;Instalación del Entorno de Desarrollo de Haskell&lt;/h1&gt;&#xA;&lt;h2 id=&#34;facultad-de-ingeniería-arquitectura-y-diseño&#34;&gt;FACULTAD DE INGENIERÍA, ARQUITECTURA Y DISEÑO&lt;/h2&gt;&#xA;&lt;h3 id=&#34;instalación-del-entorno-de-desarrollo-e-introducción-a-prolog&#34;&gt;Instalación del entorno de desarrollo e introducción a Prolog&lt;/h3&gt;&#xA;&lt;p&gt;Descargar SWI-prolog&#xA;Imágenes: &lt;img src=&#34;image1.png&#34; alt=&#34;GHCup&#34;&gt;.&lt;/p&gt;&#xA;&lt;p&gt;SWI prolog es la implementación más popular y ampliamente utilizada del lenguaje Prolog en el mundo. No es solo el lenguaje en sí, sino un sistema que te permite escribir, compilar, ejecutar y depurar código Prolog.&lt;/p&gt;&#xA;&lt;p&gt;El SWI-Prolog es un entorno de desarrollo completo para el lenguaje de programación Prolog.En términos sencillos, es la implementación más popular y ampliamente utilizada del lenguaje Prolog en el mundo. No es solo el lenguaje en sí, sino un sistema que te permite escribir, compilar, ejecutar y depurar código Prolog.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
