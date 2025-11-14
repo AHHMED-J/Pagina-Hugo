@@ -1,5 +1,4 @@
-baseURL = 'https://ahhmed-j.github.io/Pagina-Hugo/
-'
+baseURL = 'https://ahhmed-j.github.io/Pagina-Hugo/'
 languageCode = 'en-us'
 title = 'Portafolio Ahhmed'
 theme = 'ananke'
