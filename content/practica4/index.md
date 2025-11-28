@@ -35,4 +35,5 @@ AplicacionesSe usa en Inteligencia Artificial (IA), procesamiento de lenguaje na
 Aqui tenemos un ejemplo donde primero asignamos una base de datos en family.pl y despues preguntamos si bob es hombre
  Imágenes: ![GHCup](image2.png).
 
-[Portafolio](https://github.com/AHHMED-J/Pagina-Hugo)
+[Portafolio](https://github.com/AHHMED-J/Portafolio-Ahhmed)
+

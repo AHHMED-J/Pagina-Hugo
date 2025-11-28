@@ -72,5 +72,5 @@ Con la finalización de estos pasos, se completó la descarga e instalación de 
 3. Conclusiones
 La instalación del toolchain de Haskell se simplificó enormemente gracias al uso de GHCup, permitiendo una configuración ágil desde un solo comando en PowerShell. La guía oficial Get Started resultó fundamental para verificar rápidamente que todos los componentes clave estaban funcionales y listos para el desarrollo.
 
-[Portafolio](https://github.com/AHHMED-J/Pagina-Hugo)
+[Portafolio](https://github.com/AHHMED-J/Portafolio-Ahhmed)
 
